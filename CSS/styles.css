@@ -1,0 +1,73 @@
+/* Title */
+#title{
+  background-color: #61706f;
+}
+
+.nav-link {
+  color: red;
+}
+
+/* Profile */
+#profile {
+  background-color: #ffffff;
+  padding: 3% 15%;
+}
+
+.about {
+  text-align: center;
+}
+
+.profile-pic {
+  border-radius: 100%;
+  width: 20%;
+}
+
+.about-h3 {
+  color: #61706f;
+  margin: 2%;
+}
+
+/* Education */
+.school-info {
+  background-color: #706c61;
+  text-align: center;
+  padding: 3% 15%;
+  color: #e1f4f3;
+}
+
+.icon{
+  margin-bottom: 3%;
+}
+
+.major {
+  padding: 0% 15%;
+  
+}
+.uh-logo {
+  width: 8rem;
+
+}
+
+.grad-class {
+  margin: 1.5% 0%;
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+/* Experience */
+
+#experience {
+  background-color: #ffffff;
+  color: #333333;
+}
+.exp {
+  padding: 3% 15%;
+}
+
+/* Projects */
+
+#projects {
+  background-color: #706c61;
+  color: #e1f4f3;
+  padding: 3% 15%;
+}
