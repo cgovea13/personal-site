@@ -80,3 +80,14 @@ p.firefly {
   text-align: center;
   margin: 25% auto;
 }
+
+/* Contact */
+
+#contact  {
+  background-color: #ffffff;
+  color: #333333;
+}
+
+.exp {
+  padding: 3% 15%;
+}
