@@ -15,6 +15,7 @@
 
 .about {
   text-align: center;
+  font-size: 1.25rem;
 }
 
 .profile-pic {
@@ -25,6 +26,7 @@
 .about-h3 {
   color: #61706f;
   margin: 2%;
+  font-size: 1.15rem;
 }
 
 /* Education */
@@ -59,6 +61,7 @@
 #experience {
   background-color: #ffffff;
   color: #333333;
+  font-size: 1.15rem;
 }
 .exp {
   padding: 3% 15%;
@@ -70,6 +73,7 @@
   background-color: #706c61;
   color: #e1f4f3;
   padding: 3% 15%;
+  font-size: 1rem;
 }
 
 .firefly-title{
